@@ -1,0 +1,13 @@
+We report some articles considered interesting on the state of the art in face detection processes:
+
+- [1] Andisani Nemavhola, Serestina Viriri, Colin Chibaya, 'A Scoping Review of Literature on Deep Learning Techniques for Face Recognition', Wiley, Human Behavior and Emerging Technologies, Volume 2025, Article ID 5979728, 14 pages: https://drive.google.com/file/d/1jzaJkiOzdgwn-nC8XTrLQbNyqFC7x2R-/view?usp=sharing
+- [2] Shervin Minaee, Ping Luo, Zhe Lin, Kevin Bowyer, 'Going Deeper Into Face Detection: A Survey', arXiv:2103.14983v2 [cs.CV] 13 Apr 2021: https://drive.google.com/file/d/1MLAWU3A0Nam5C3fsKmLjtPAJSBmOYFWz/view?usp=sharing
+- [3] Paul Viola, Michael J. Jones, 'Robust Real-Time Face Detection', International Journal of Computer Vision 57(2), 137–154, 2004: https://drive.google.com/file/d/1Uv6xz7YHmjBlO-_xkNlJXwnU35oyBebt/view?usp=sharing
+- [4] Stefan van der Walt, Johannes L. Schonberger, Juan Nunez-Iglesias, Francois Boulogne, Joshua D. Warner, Neil Yager, Emmanuelle Gouillart, Tony Yu and the scikit-image contributors, 'Scikit-image: image processing in Python' Van der Walt et al. (2014), PeerJ, DOI 10.7717/peerj.453: https://drive.google.com/file/d/148FeVtGAAU2GAGFiwmRBFraZhTMTv5w5/view?usp=sharing
+- [5] HOG features: https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_hog.html
+- [6] Pyramid Search: https://pyimagesearch.com/2015/03/16/image-pyramids-with-python-and-opencv/
+- [7] Sliding Windows: https://pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/
+- [8] Non Max Suppression: https://pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/
+- [9] N. Dalal and B. Triggs, 'Histograms of oriented gradients for human detection,' 2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR'05), San Diego, CA, USA, 2005, pp. 886-893 vol. 1, doi: 10.1109/CVPR.2005.177. keywords: {Histograms;Humans;Robustness;Object recognition;Support vector machines;Object detection;Testing;Image edge detection;High performance computing;Image databases},
+
+The model we trained was challenging, starting from scratch and using libraries like scikit-learn. However, the literature shows that further challenges for face detection are posed by the presence of dirty, partial, and poorly lit images.
